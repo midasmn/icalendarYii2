@@ -7,9 +7,15 @@ $config = [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'components' => [
+        //URL整理
+        'urlManager' => [
+            'enablePrettyUrl' => true,
+            'showScriptName' => false,
+        ],
+        //URL整理
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
-            'cookieValidationKey' => 'midasmn',
+            'cookieValidationKey' => '1-aOiBTpdjZbZoUu_CyALrop1crop5Lm',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',

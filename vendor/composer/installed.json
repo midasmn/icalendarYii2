@@ -74,7 +74,7 @@
                 "dev-master": "5.2-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "files": [
                 "lib/swift_required.php"
@@ -145,7 +145,7 @@
         },
         "time": "2014-03-20 17:20:33",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "notification-url": "https://packagist.org/downloads/",
         "license": [
             "MIT"
@@ -186,7 +186,7 @@
                 "dev-0.9.x-dev": "0.9.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "cebe\\markdown\\": ""
@@ -237,7 +237,7 @@
         "extra": {
             "class": "yii\\composer\\Plugin"
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\composer\\": ""
@@ -290,7 +290,7 @@
             "yii"
         ],
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\": ""
@@ -360,7 +360,7 @@
         },
         "time": "2013-11-01 13:02:21",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Diff": "lib/"
@@ -400,7 +400,7 @@
         },
         "time": "2014-07-29 22:40:46",
         "type": "yii2-extension",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\swiftmailer\\": ""
@@ -446,7 +446,7 @@
         },
         "time": "2014-07-29 22:40:46",
         "type": "yii2-extension",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\codeception\\": ""
@@ -493,7 +493,7 @@
                 "dev-master": "3.2.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "notification-url": "https://packagist.org/downloads/",
         "license": [
             "MIT"
@@ -542,7 +542,7 @@
         },
         "time": "2014-08-08 09:53:39",
         "type": "yii2-extension",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\bootstrap\\": ""
@@ -585,7 +585,7 @@
         },
         "time": "2014-07-29 22:40:46",
         "type": "yii2-extension",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\debug\\": ""
@@ -630,7 +630,7 @@
         },
         "time": "2014-08-01 08:48:35",
         "type": "yii2-extension",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "yii\\gii\\": ""
